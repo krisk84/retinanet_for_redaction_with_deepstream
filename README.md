@@ -1,5 +1,7 @@
 # Face Redaction with DeepStream
 
+For quickstart with the Real-time Redaction App on Jetson devices see the [wiki](https://github.com/krisk84/retinanet_for_redaction_with_deepstream/wiki).
+
 This sample shows how to train and deploy a deep learning model for the real time redaction of faces from video streams using the NVIDIA DeepStream SDK.
 
 ## Blog posts
