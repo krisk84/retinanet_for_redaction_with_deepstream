@@ -54,7 +54,7 @@ interval=0
 gie-unique-id=1
 is-classifier=0
 parse-bbox-func-name=NvDsInferParseRetinaNet
-custom-lib-path=/path-to/retinanet-examples/extras/deepstream/deepstream-sample/build/libnvdsparsebbox_retinanet.so
+custom-lib-path=libnvdsparsebbox_retinanet.so
 #enable-dbscan=1
 
 
